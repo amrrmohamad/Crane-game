@@ -100,4 +100,4 @@ export class GameAPI {
   }
 }
 
-export const CRANE_GAME_ID = 10; // Crane Game ID
+export const CRANE_GAME_ID = 5; // Crane Game ID
